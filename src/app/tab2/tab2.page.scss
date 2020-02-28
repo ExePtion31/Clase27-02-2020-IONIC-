@@ -1,0 +1,30 @@
+ion-content ion-toolbar {
+  --background: translucent;
+}
+
+ion-title{
+  color: #01BF1D;
+  font-weight: bold;
+  text-align: center;
+}
+
+ion-toolbar{
+  --background: #000;
+}
+
+ion-content{
+  --background: #636464;
+}
+
+.titulos{
+  text-align: center;
+  font-weight: bolder;
+  color: #05F3EF;
+}
+
+.parrafo{
+  color: #fff;
+  font-weight: bolder;
+  font-size: 20px;
+  text-align: center;
+}
